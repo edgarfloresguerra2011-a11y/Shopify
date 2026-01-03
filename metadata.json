@@ -1,0 +1,8 @@
+{
+  "name": "Modern Living - Premium E-Commerce",
+  "description": "A high-end, modern Shopify-style web application for premium lifestyle and tech products, featuring smart assistant capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
